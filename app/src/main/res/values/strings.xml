@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Hishh Money</string>
+    <string name="brand_title">HISHH MONEY MANAGER</string>
+    <string name="brand_subtitle">PERSONAL FINANCE • YOUR CONTROL</string>
+    <string name="brand_badge_private">PRIVATE</string>
+
+    <string name="nav_overview">Overview</string>
+    <string name="nav_history">History</string>
+    <string name="nav_vault">Vault</string>
+
+    <string name="section_overview">Overview</string>
+    <string name="available_balance">Available balance</string>
+    <string name="income_minus_expenses">Income minus expenses</string>
+    <string name="total_income">Total income</string>
+    <string name="total_expenses">Total expenses</string>
+
+    <string name="section_add_transaction">Add transaction</string>
+    <string name="saved_on_device">Saved on this device</string>
+    <string name="tab_income">Income</string>
+    <string name="tab_expense">Expense</string>
+    <string name="label_amount">Amount (₹)</string>
+    <string name="hint_amount">Enter amount</string>
+    <string name="label_category">Category</string>
+    <string name="label_note">Description (optional)</string>
+    <string name="hint_note">e.g. Logo design payment</string>
+    <string name="btn_add_transaction">ADD TRANSACTION</string>
+
+    <string name="section_savings_goal">Savings goal</string>
+    <string name="monthly_target">Monthly target</string>
+    <string name="label_target_amount">Target amount (₹)</string>
+    <string name="btn_save_goal">Update Goal</string>
+    <string name="goal_saved_suffix">saved</string>
+
+    <string name="section_category_breakdown">Monthly breakdown</string>
+    <string name="section_recent_transactions">Recent transactions</string>
+    <string name="view_all">View all</string>
+    <string name="entries_suffix">entries</string>
+    <string name="entry_singular">entry</string>
+    <string name="empty_transactions_title">No transactions yet</string>
+    <string name="empty_transactions_subtitle">Add your first income or expense to start tracking your balance.</string>
+    <string name="empty_filtered_subtitle">No transactions match the current filter.</string>
+
+    <string name="filter_all">All</string>
+    <string name="search_transactions_hint">Search notes or categories…</string>
+
+    <string name="section_data_privacy">Data &amp; Backups</string>
+    <string name="btn_export_csv">Export CSV</string>
+    <string name="btn_backup_json">Backup JSON</string>
+    <string name="btn_restore_json">Restore Backup</string>
+    <string name="btn_clear_all">Clear all data</string>
+
+    <string name="footer_version">HISHH MONEY MANAGER v1.0.0</string>
+    <string name="footer_privacy">Your financial entries are stored locally on this device. Export backups regularly.</string>
+
+    <string name="dialog_delete_title">Delete transaction?</string>
+    <string name="dialog_delete_message">This entry will be permanently removed from this device.</string>
+    <string name="dialog_clear_title">Clear all data?</string>
+    <string name="dialog_clear_message">This will permanently delete all saved transactions and reset your monthly savings goal to ₹5,000. Continue?</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_clear">Clear All</string>
+
+    <string name="msg_invalid_amount">Enter a valid amount</string>
+    <string name="msg_transaction_saved">Transaction saved</string>
+    <string name="msg_transaction_deleted">Transaction deleted</string>
+    <string name="msg_goal_updated">Savings goal updated</string>
+    <string name="msg_no_export">No transactions to export</string>
+    <string name="msg_export_ready">Export saved</string>
+    <string name="msg_backup_restored">Backup restored</string>
+    <string name="msg_backup_invalid">Could not read backup file</string>
+    <string name="msg_all_cleared">All data cleared</string>
+
+    <string name="cd_brand_logo">Hishh Money logo</string>
+    <string name="cd_previous_month">Previous month</string>
+    <string name="cd_next_month">Next month</string>
+    <string name="cd_delete_transaction">Delete transaction</string>
+    <string name="cd_quick_add">Quick add transaction</string>
+    <string name="cd_clear_search">Clear search</string>
+</resources>

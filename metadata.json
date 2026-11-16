@@ -1,0 +1,6 @@
+{
+  "name": "Hishh Money",
+  "description": "Private personal finance and money manager with local storage, monthly savings goals, CSV export, and JSON backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
